@@ -1,4 +1,4 @@
-# Implantação de ambiente baseado em nuvem GCP via terraform
+# Exporte do faturamento para o BigQuery no Console do Google Cloud Plataform
 
 Neste projeto foi realizado o exporte do faturamento para o BigQuery no Console do Google Cloud Plataform.
 
